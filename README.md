@@ -1,33 +1,27 @@
-<h2> Hell👹 and Welcome!</h2>
+<h1> Hell👹 and Welcome!</h2>
 
-<h3> I Am... </h3>
+<h2> I Am... </h3>
 
-- ❓ Self-Proclaimed geek interested in technology in general.
-     To name a few:
-      - Computer Hardware;
-      - Operating Systems;
-      - CAD & 3D Design; 
-      - 3D Printing;
-      - Virtualization;
-      - Containerization. 
-- 🔎 Currently focusing on 3 areas:
-    - Linux
-    - zsh
-    - Docker
-- 🎮 Spending too much time on Xbox...
+- ❓A self-proclaimed geek interested in technology in general.
+- 🔎 Currently focusing on 3 areas: (1) Linux, (2) zsh, (3) Docker
+- 🎮 Spending too much time on Xbox these days...
 
-<h3> 🔖 Some of My Interests</h3>
+<h3>Some of My Interests</h3>
 
-- **Operating System**  
-    ![Windows](https://img.shields.io/badge/MS%20Windows-000000?style=flat&logo=windows&labelColor=0078D6)  
-    ![macOS](https://img.shields.io/badge/macOS,%20iOS,%20ipadOS-000000?style=flat&logo=apple&labelColor=ffffff)  
-    ![Manjaro Linux](https://img.shields.io/badge/-Manjaro%20Linux-000000?style=flat&logo=manjaro&labelColor=ffffff)  
-- **Git**  
-    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
-- **Misc**  
-    ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)  
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
-- **Virtualization & Containerization**  
-    ![Docker](https://img.shields.io/badge/Docker,%20Docker--Hub-000000?style=flat&logo=docker&labelColor=ffffff)  
-    ![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=flat&logo=proxmox&labelColor=ffffff)  
+<h4>Operating System</h4>  
+   ![Windows](https://img.shields.io/badge/MS%20Windows-686868?style=flat&logo=windows&labelColor=0078D6)  
+   ![macOS](https://img.shields.io/badge/macOS,%20iOS,%20ipadOS-686868?style=flat&logo=apple&labelColor=000000)  
+   ![Manjaro Linux](https://img.shields.io/badge/-Manjaro%20Linux-686868?style=flat&logo=manjaro&labelColor=000000)
+
+<h4>Git</h4>  
+   ![Git](https://img.shields.io/badge/-Git-686868?style=flat&logo=git&labelColor=000000)  
+   ![GitHub](https://img.shields.io/badge/-GitHub-686868?style=flat&logo=github&labelColor=181717)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-686868?style=flat&logo=visual-studio-code&&logoColor=007ACC&labelColor=000000)
+
+<h4>Misc</h4>  
+   ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&labelColor=000000)  
+   [Joplin](https://joplinapp.org/)
+
+<h4>Virtualization & Containerization</h4>  
+   ![Docker](https://img.shields.io/badge/Docker,%20Docker--Hub-686868?style=flat&logo=docker&labelColor=000000)  
+   ![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=flat&logo=proxmox&labelColor=ffffff)
