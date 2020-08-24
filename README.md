@@ -1,6 +1,6 @@
-<h1> Hell👹 and Welcome!</h2>
+<h2> Hell👹 and Welcome!</h2>
 
-<h2> I Am... </h3>
+<h3> I Am... </h3>
 
 - ❓A self-proclaimed geek interested in technology in general.
 - 🔎 Currently focusing on 3 areas: (1) Linux, (2) zsh, (3) Docker
@@ -8,8 +8,11 @@
 
 <h3>Some of My Interests</h3>
 
-<h4>Operating System</h4>  
-![Windows](https://img.shields.io/badge/MS%20Windows-686868?style=flat&logo=windows&labelColor=0078D6) ![macOS](https://img.shields.io/badge/macOS,%20iOS,%20ipadOS-686868?style=flat&logo=apple&labelColor=000000) ![Manjaro Linux](https://img.shields.io/badge/-Manjaro%20Linux-686868?style=flat&logo=manjaro&labelColor=000000)
+<h4>Operating System</h4>
+
+![Windows](https://img.shields.io/badge/MS%20Windows-686868?style=flat&logo=windows&labelColor=0078D6)
+![macOS](https://img.shields.io/badge/macOS,%20iOS,%20ipadOS-686868?style=flat&logo=apple&labelColor=000000)
+![Manjaro Linux](https://img.shields.io/badge/-Manjaro%20Linux-686868?style=flat&logo=manjaro&labelColor=000000)
 
 <h4>Git</h4>  
    ![Git](https://img.shields.io/badge/-Git-686868?style=flat&logo=git&labelColor=000000)  
