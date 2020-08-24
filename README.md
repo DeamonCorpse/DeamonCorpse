@@ -22,10 +22,10 @@
 
 <h4>Misc</h4>
 
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&labelColor=000000)  
+![Markdown](https://img.shields.io/badge/-Markdown-686868?style=flat&logo=markdown&labelColor=000000)  
 [Joplin](https://joplinapp.org/)
 
 <h4>Virtualization & Containerization</h4>
 
 ![Docker](https://img.shields.io/badge/Docker,%20Docker--Hub-686868?style=flat&logo=docker&labelColor=000000)
-![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=flat&logo=proxmox&labelColor=ffffff)
+![Proxmox](https://img.shields.io/badge/Proxmox-686868?style=flat&logo=proxmox&labelColor=ffffff)
