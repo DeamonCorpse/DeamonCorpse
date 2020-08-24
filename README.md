@@ -22,7 +22,7 @@
 
 <h4>Misc</h4>
 
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&labelColor=000000)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&labelColor=000000)  
 [Joplin](https://joplinapp.org/)
 
 <h4>Virtualization & Containerization</h4>
