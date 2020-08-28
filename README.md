@@ -39,6 +39,9 @@
 
 ---
 
-<p align="center">
+|:----:|:----:|
+| <p align="center">
 <img src="https://github-readme-stats.deamoncorpse.vercel.app/api?username=deamoncorpse&show_icons=true&theme=dark"/>
+
 </p>
+[![Deamon's Spotify Now Playing](https://novatorem-sepia-iota.vercel.app//api/spotify)](https://open.spotify.com/)
