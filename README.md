@@ -1,10 +1,10 @@
 ## Hell👹 and Welcome!
 
-### I Am...
+### I Am
 
 - A self-proclaimed geek interested in technology in general.
 - Currently focusing on 3 areas: (1) Linux, (2) zsh, (3) Docker
-- Spending too much time on ![XBox](https://img.shields.io/badge/XBox%201s-000000?style=flat&logo=xbox&labelColor=107C10) these days...
+- Spending too much time on ![XBox](https://img.shields.io/badge/XBox%201s-000000?style=flat&logo=xbox&labelColor=107C10) these days
 
 ### Some of My Interests
 
@@ -30,4 +30,4 @@
 ![Docker](https://img.shields.io/badge/Docker,%20Docker--Hub-686868?style=flat&logo=docker&labelColor=000000)
 ![Proxmox](https://img.shields.io/badge/Proxmox-686868?style=flat&logo=proxmox&labelColor=ffffff)
 
-https://github-readme-stats.deamoncorpse.vercel.app/api?username=deamoncorpse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+![Readme_Stats](https://github-readme-stats.deamoncorpse.vercel.app/api?username=deamoncorpse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
