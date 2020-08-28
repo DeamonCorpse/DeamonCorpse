@@ -29,3 +29,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker,%20Docker--Hub-686868?style=flat&logo=docker&labelColor=000000)
 ![Proxmox](https://img.shields.io/badge/Proxmox-686868?style=flat&logo=proxmox&labelColor=ffffff)
+
+---
+
+<img align="center">https://github-readme-stats.deamoncorpse.vercel.app/api?username=deamoncorpse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515</img>
