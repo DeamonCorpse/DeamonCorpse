@@ -6,7 +6,12 @@
 - Currently focusing on 3 areas: (1) Linux, (2) zsh, (3) Docker
 - Spending too much time on ![XBox](https://img.shields.io/badge/XBox%201s-000000?style=flat&logo=xbox&labelColor=107C10) these days
   <br>
+  I am currently listing to:
 
+<p align="center">
+<img src="https://novatorem.deamoncorpse.vercel.app/api/spotify"/>
+</p>
+<br>
 ## Some of My Interests
 
 ### Operating System
@@ -37,13 +42,6 @@
 <br>
 <br>
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-  ![Deamon's Readme Stats](https://github-readme-stats.deamoncorpse.vercel.app/api?username=deamoncorpse&show_icons=true&theme=dark)
-</td>
-  <td width="50%">
-[![Deamon's Spotify](https://novatorem.deamoncorpse.vercel.app/api/spotify)](https://open.spotify.com/user/user)
-  </td>
-  </tr>
-  </table>
+<p align="center">
+<img src="https://github-readme-stats.deamoncorpse.vercel.app/api?username=deamoncorpse&show_icons=true&theme=dark"/>
+</p>
