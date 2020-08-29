@@ -40,11 +40,10 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-  <br>
-![Deamon's Readme Stats](https://github-readme-stats.deamoncorpse.vercel.app/api?username=deamoncorpse&show_icons=true&theme=dark)
+  ![Deamon's Readme Stats](https://github-readme-stats.deamoncorpse.vercel.app/api?username=deamoncorpse&show_icons=true&theme=dark)
 </td>
   <td width="50%">
-[![Deamon's Spotify Now Playing](https://novatorem.deamoncorpse.vercel.app//api/spotify)](https://open.spotify.com/user/user)
-</p>
+[![Deamon's Spotify](https://novatorem.deamoncorpse.vercel.app/api/spotify)](https://open.spotify.com/user/user)
   </td>
+  </tr>
   </table>
