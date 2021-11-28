@@ -3,7 +3,7 @@
 ## I Am
 
 - A self-proclaimed geek interested in technology in general.
-- Currently focusing on 3 areas: (1) Linux, (2) zsh, (3) Docker
+- Currently focusing on: Linux, Docker
 - Spending too much time on ![XBox](https://img.shields.io/badge/XBox%201s-000000?style=flat&logo=xbox&labelColor=107C10) these days
   <br>
   <br>
